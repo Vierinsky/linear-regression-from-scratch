@@ -2,3 +2,6 @@
 pandas
 matplotlib
 
+# Necesario para notebooks en VS Code
+jupyter
+ipykernel
