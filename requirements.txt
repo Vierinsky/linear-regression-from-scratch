@@ -1,6 +1,7 @@
 ﻿numpy
 pandas
 matplotlib
+scikit-learn
 
 # Necesario para notebooks en VS Code
 jupyter
